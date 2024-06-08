@@ -1,0 +1,13 @@
+{
+  "meetings": [
+    {
+      "username": "Nikhil",
+      "room": 1,
+      "date": "2024-06-10",
+      "fromTime": "09:14",
+      "toTime": "09:50",
+      "agenda": "Meeting",
+      "id": 1717850802953
+    }
+  ]
+}
